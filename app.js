@@ -8,3 +8,6 @@ function () {
 }
 /* useless information */
 console.log('bastardo!');
+
+alert('Eat shit, cousin!');
+
