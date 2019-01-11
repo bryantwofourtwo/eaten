@@ -13,3 +13,8 @@ alert('Eat shit, cousin!');
 
 console.log('Why are you looking at this?')
 
+hon();
+
+home(yesterday);
+
+begat(shat);
